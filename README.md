@@ -1,4 +1,4 @@
-# tinder_bot
+# Automate Tinder swiping 
 
 to run:
 
